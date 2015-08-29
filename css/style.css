@@ -1,0 +1,69 @@
+body {
+    background-color: #262626;
+
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.well {
+    background-color: #245269;
+}
+
+.centered {
+    margin: 0 auto;
+}
+
+.timer {
+    color: #c1c1c1;
+    font-size: xx-large;
+}
+
+.btn {
+    background-color: #31b0d5;
+    margin: 10px 20px 10px 20px;
+}
+
+.input-group {
+    margin: 15px 0 15px 20px;
+
+}
+
+
+
+#workInput {
+    width: 120px;
+    font-size: large;
+    text-align: center;
+}
+
+.col-center {
+    margin: 0 auto;
+    float: none;
+}
+
+#breakInput {
+    width: 120px;
+    font-size: large;
+    text-align: center;
+}
+
+.row-bottom-margin-50 {
+    margin-bottom: 50px;
+}
+
+.row-bottom-margin-20 {
+    margin-bottom: 20px;
+}
+
+#clock-container {
+
+}
+
+.progress-bar {
+    -webkit-transition: none !important;
+    transition: none !important;
+    min-width: 2em;
+}
+
